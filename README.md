@@ -1,1 +1,1 @@
-# QX
+# Quantumult X 本地化JS的订阅包
