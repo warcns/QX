@@ -1,3 +1,6 @@
+/**
+ * @supported 23AD6B11 55BE3B10 63ED6F86
+ */
 /*
 [rewrite_local]
 ^https?://mp.weixin.qq.com/mp/getappmsgad url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js

@@ -1,3 +1,6 @@
+/**
+ * @supported 23AD6B11 55BE3B10 63ED6F86
+ */
 /*
 Vientiane live download link：https://m.51168.tv/
 Surge4：

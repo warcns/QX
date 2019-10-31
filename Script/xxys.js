@@ -1,4 +1,6 @@
-
+/**
+ * @supported 23AD6B11 55BE3B10 63ED6F86
+ */
 const path1 = "/ucp/index";
 const path2 = "/vod/reqplay/";
 var body = $response.body;

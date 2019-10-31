@@ -1,3 +1,6 @@
+/**
+ * @supported 23AD6B11 55BE3B10 63ED6F86
+ */
 body = $response.body.replace(/while.{7}\n/, "");
 let obj = JSON.parse(body);
 obj.entitlement.status="subscriber";
