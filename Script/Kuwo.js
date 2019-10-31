@@ -1,3 +1,7 @@
+/**
+ * @supported 23AD6B11 55BE3B10 63ED6F86
+ */
+
 /*
 Regex: ^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice)
 
