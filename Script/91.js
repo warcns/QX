@@ -1,5 +1,5 @@
 /**
- * @supported 23AD6B11 55BE3B10 63ED6F86
+ * @supported D2C7213D6BC8 55BE3B10 63ED6F86
  */
 var body = $response.body;
 var obj = JSON.parse(body);
