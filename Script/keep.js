@@ -2,8 +2,8 @@ let url = $request.url;
 let body = $response.body;
 let obj = JSON.parse(body);
 
-const path1 = 'exercises';
-const path2 = '/klass/v2/k/';
+const path1 = 'dynamic';
+const path2 = 'subject';
 
 if (url.indexOf(path1) != -1) {
    obj.data.permission.isMembership = true;
