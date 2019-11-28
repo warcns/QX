@@ -1,6 +1,17 @@
 /**
  * @supported D2C7213D6BC8 063C1F321B94 63ED6F86
  */
+/*
+91 short video unlock vip
+app download link : http://i91.porn
+
+QX1.0.0: 
+^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/91.js
+
+Surge4.0:
+http-request ^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$ script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/91ShortVideo.js
+*/
+
 var body = $response.body;
 var obj = JSON.parse(body);
 var headers = $request.headers;
